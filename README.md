@@ -9,3 +9,5 @@ I am ✨ Ogada Stanley Chinedu ✨
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dark)](https://github.com/chineduogada/react-rapid-carousel)
+
+[![Ogada Stanley Chinedu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chineduogada&theme=dark)](https://github.com/chineduogada)
