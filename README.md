@@ -11,7 +11,7 @@
 
 | Top Langunages | Featured Repository |
 |----------|:-------------:|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/chineduogada) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dark)](https://github.com/chineduogada/react-rapid-carousel) |
+| [![Top Langs]()](https://github.com/chineduogada) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dark)](https://github.com/chineduogada/react-rapid-carousel) |
 
 
 
@@ -45,8 +45,8 @@ I am a Creative and immovable Front-End Engineer with over 4 years of experience
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/chineduogada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
