@@ -1,10 +1,8 @@
-## Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
-#### I am ✨ Ogada Stanley Chinedu ✨
 
 [![My Linkedin Profile](https://octodex.github.com/images/yaktocat.png)](https://www.linkedin.com/in/stanley-ogada/)
 
-Creative and immovable Front-End Engineer with over 4 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments.
+
 
 
 
@@ -25,11 +23,13 @@ Creative and immovable Front-End Engineer with over 4 years of experience buildi
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+#### I am ✨ Ogada Stanley Chinedu ✨
+
+I am a Creative and immovable Front-End Engineer with over 4 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments. You can find me on [![LinkedIn][3.2]][2].
 
 ## &#x270d; Blog & Writing
 
