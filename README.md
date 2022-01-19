@@ -1,4 +1,4 @@
-# Hi there, Thanks for stopping by <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
 ### I am ✨ Ogada Stanley Chinedu ✨
 
@@ -10,9 +10,10 @@ https://www.linkedin.com/in/stanley-ogada/
 
 [![Ogada Stanley Chinedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chineduogada&count_private=true&show_icons=true&theme=dracula)](https://github.com/chineduogada)
 
-| Top Langunages | Featured Repository |
-|----------|:-------------:|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/chineduogada) |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dark)](https://github.com/chineduogada/react-rapid-carousel) |
+<div style="display: flex;">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/chineduogada)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dark)](https://github.com/chineduogada/react-rapid-carousel)
+  </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chineduogada)](https://git.io/streak-stats)
 
