@@ -1,6 +1,6 @@
-# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
+## Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
-### I am ✨ Ogada Stanley Chinedu ✨
+#### I am ✨ Ogada Stanley Chinedu ✨
 
 Creative and immovable Front-End Engineer with over 4 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments.
 
