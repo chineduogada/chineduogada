@@ -1,9 +1,5 @@
 
 
-[![My Linkedin Profile](https://octodex.github.com/images/yaktocat.png)](https://www.linkedin.com/in/stanley-ogada/)
-
-
-
 
 
 | Statictis | Streak |
@@ -29,7 +25,7 @@
 
 #### I am ✨ Ogada Stanley Chinedu ✨
 
-I am a Creative and immovable Front-End Engineer with over 4 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments. You can find me on [![LinkedIn][3.2]][2].
+I am a Creative and immovable Front-End Engineer with over 4 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments. You can find me on [![LinkedIn][3.2]](https://www.linkedin.com/in/stanley-ogada/).
 
 ## &#x270d; Blog & Writing
 
