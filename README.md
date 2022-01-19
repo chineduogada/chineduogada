@@ -2,6 +2,8 @@
 
 ### I am ✨ Ogada Stanley Chinedu ✨
 
+https://www.linkedin.com/in/stanley-ogada/
+
 [![Ogada Stanley Chinedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chineduogada&count_private=true&show_icons=true&theme=dracula)](https://github.com/chineduogada)
 
 | Top Langunages | Featured Repository |
