@@ -19,7 +19,7 @@ https://www.linkedin.com/in/stanley-ogada/
 
 | Top Langunages | Featured Repository |
 |----------|:-------------:|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/chineduogada) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dark)](https://github.com/chineduogada/react-rapid-carousel) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=deal-vend&theme=dark)](https://github.com/chineduogada/deal-vend) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/chineduogada) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dark)](https://github.com/chineduogada/react-rapid-carousel) |
 
 
 
