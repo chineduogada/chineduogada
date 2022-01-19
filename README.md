@@ -4,7 +4,7 @@
 
 | Statictis | Streak |
 |----------|:-------------:|
-| [![Ogada Stanley Chinedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chineduogada&count_private=true&show_icons=true&theme=dracula)](https://github.com/chineduogada) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chineduogada&theme=dark)](https://git.io/streak-stats) |
+| [![Ogada Stanley Chinedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chineduogada&count_private=true&show_icons=true&theme=dracula)](https://github.com/chineduogada) |  |
 
 
 
@@ -27,9 +27,6 @@
 
 I am a Creative and immovable Front-End Engineer with over 4 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments. You can find me on [![LinkedIn][3.2]](https://www.linkedin.com/in/stanley-ogada/).
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -55,6 +52,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -63,6 +61,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chineduogada&theme=dark" />
+</a>  
 
 <!-- links to social media icons -->
 
