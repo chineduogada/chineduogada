@@ -58,7 +58,7 @@ I am a Creative and immovable Front-End Engineer with over 4 years of experience
 
 #
 
-<a href="https://git.io/chineduogada">
+<a href="https://github.com/chineduogada">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chineduogada&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
 </a>  
 
