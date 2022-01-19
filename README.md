@@ -2,11 +2,9 @@
 
 #### I am ✨ Ogada Stanley Chinedu ✨
 
+[![My Linkedin Profile](https://octodex.github.com/images/yaktocat.png)](https://www.linkedin.com/in/stanley-ogada/)
+
 Creative and immovable Front-End Engineer with over 4 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments.
-
-
-
-https://www.linkedin.com/in/stanley-ogada/
 
 
 
