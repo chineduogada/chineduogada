@@ -21,6 +21,7 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
 ![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=nextjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TestingLibrary-informational?style=flat&logo=testinglibrary&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
 
 
 <!-- ## 🔧 Technologies & Tools
